@@ -1,2 +1,2 @@
 # HBYejin
-예진이를 위한 작고 볼품없는 약간의 게임처럼 보이는 것
+mini game to celebrate my friend, Yejin's birthday
